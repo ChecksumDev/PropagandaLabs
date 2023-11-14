@@ -1,7 +1,7 @@
 {
 	"name": "PropagandaLabs",
 	"author": "checksum",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"title": "PropagandaLabs",
 	"description": "Replaces the lab sound with Mao Zedong's red sun in the sky. Forked from LouderLabDansen by NyanCation",
 	"dependencies": [
