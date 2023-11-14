@@ -1,7 +1,7 @@
 -- The Lab
 data.raw["lab"]["lab"].working_sound = {
     sound = {
-        filename = "__Propaganda Labs__/sounds/propaganda.ogg",
+        filename = "__PropagandaLabs__/sounds/propaganda.ogg",
         volume = 2.5
     },
     max_sounds_per_type = 1,
